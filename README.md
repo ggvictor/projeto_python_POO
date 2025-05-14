@@ -2,14 +2,19 @@
 
 Neste projeto, o objetivo é explorar os principais conceitos da Programação Orientada a Objetos (POO) utilizando a linguagem Python.
 
-Começarei com uma estrutura básica, utilizando apenas classe e objetos. A partir disso, irei evoluir o código gradualmente, implementando os seguintes pilares da POO:
+fazendo os exercicios que estão disponiveis no livro da alura
 
-✅ **Herança**
-
-✅ **Polimorfismo**
+✅ **orientado a objeto**
 
 ✅ **Encapsulamento**
 
-✅ **Abstração**
+✅ **Herança**
 
-A ideia é demonstrar passo a passo como esses conceitos podem ser aplicados de forma prática e progressiva.
+✅ **exceções e erros**
+
+✅ **collections**
+
+
+**Link do livro: [Aqui](https://github.com/caelum/apostila-python-orientacao-a-objetos?tab=readme-ov-file)**
+
+
